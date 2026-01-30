@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **satyasri-allaka/satyasri-allaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm Satyasri
+
+- 💻 Data Scientist by profession and curious learner by choice
+- 🔭 Passionate about applying AI/ML to real-world problems in **Banking, Financial Services & Insurance (BFSI)** and **E-commerce**
+- 🧠 I enjoy working at the intersection of **data, business context, and decision-making**
+- 👯 Open to collaborating on meaningful projects that create value-add through data
+
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/satyasri-allaka/
+- Medium: https://medium.com/@satyasri
+- Leetcode: https://leetcode.com/u/satyasri_allaka/
