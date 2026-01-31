@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Satyasri
 
-- 💻 Data Scientist by profession and curious learner by choice
+- 💻 Data Scientist by profession | Curious learner by choice
 - 🔭 Passionate about applying AI/ML to real-world problems in **Banking, Financial Services & Insurance (BFSI)** and **E-commerce**
 - 🧠 I enjoy working at the intersection of **data, business context, and decision-making**
 - 👯 Open to collaborating on meaningful projects that create value-add through data
